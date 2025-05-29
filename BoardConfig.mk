@@ -13,6 +13,7 @@ include vendor/xiaomi/zeus/BoardConfigVendor.mk
 DEVICE_PATH := device/xiaomi/zeus
 
 # Audio
+AUDIO_FEATURE_ENABLED_CIRRUS_CALIBRATION_RESISTANCE := true
 AUDIO_FEATURE_ENABLED_ULTRASOUND_PROXIMITY := true
 
 # Properties
